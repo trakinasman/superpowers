@@ -52,6 +52,9 @@ Copie as pastas de `skills/` para `~/.claude/skills/` (todos os projetos) ou
 `<projeto>/.claude/skills/` (um projeto). Nenhum nome colide com skills nativas nem com as do ECC
 já instaladas.
 
+As três de `skills/` foram instaladas em `~/.claude/skills/` em 2026-10-21. Para desinstalar,
+apague essas três pastas de lá.
+
 ## Atualizar a partir do original
 
 Compare com a tag nova do upstream e copie de novo só as mesmas pastas.
